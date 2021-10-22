@@ -1,0 +1,60 @@
+{
+  "EmpData": [
+    {
+      "id": 1,
+      "email": "parassaxen206@gmail.com",
+      "password": "paras@123",
+      "user": "Paras Saxena",
+      "phone": 1234567890,
+      "age": 22
+    },
+    {
+      "id": 2,
+      "email": "tusharsaxena507@gmail.com",
+      "password": "tushar@123",
+      "user": "Tushar Saxena",
+      "phone": 1234567890,
+      "age": 22
+    },
+    {
+      "id": 3,
+      "email": "prateeksaxena272@gmail.com",
+      "password": "prateek@123",
+      "user": "Prateek Saxena",
+      "phone": 1234567890,
+      "age": 22
+    },
+    {
+      "id": 4,
+      "email": "sakshamgarg123@gmail.com",
+      "password": "saksham@123",
+      "user": "Saksham Garg",
+      "phone": 1234567890,
+      "age": 22
+    },
+    {
+      "id": 5,
+      "email": "sakshisharma@gmail.com",
+      "password": "sakshi@123",
+      "user": "Sakshi Sharma",
+      "phone": 1234567890,
+      "age": 22
+    },
+    {
+      "user": "Rihan Mailk",
+      "email": "rihanmailk@gmail.com",
+      "phone": "9310414915",
+      "age": "22",
+      "password": "rihan@123",
+      "id": 6
+    },
+    {
+      "user": "vansh Swami",
+      "email": "vanshswami@gmail.com",
+      "phone": "9310414915",
+      "age": "22",
+      "password": "vansh@123",
+      "id": 7
+    }
+  ]
+}
